@@ -6,6 +6,8 @@ An ellaborate joke with useful side-effects:
 - provides feedback / tips for that kind of bad requests
 
 ```bash
+git clone https://github.com/c-marc/funny.git
+cd funny
 npm install
 npx nodemon
 ```
